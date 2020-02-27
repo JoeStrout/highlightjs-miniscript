@@ -1,15 +1,14 @@
 # GDScript syntax for highlight.js
 
-Syntax implementation of [Godot](https://godotengine.org/)'s GDScript language for [highlight.js](https://github.com/highlightjs/highlight.js).
+Syntax implementation of the [MiniScript](https://miniscript.org/) language for [Highlight.js](https://github.com/highlightjs/highlight.js).
 
 ### Authors
 
-The original code was written by [Khairul Hidayat](https://github.com/khairul169). 
-The repository was eventually maintained by 
-- [Nelson Sylvest*r Fritsch](https://github.com/form-follows-function)
-- [Calinou](https://github.com/Calinou)
+Written by [Joe Strout](https://github.com/JoeStrout), based on [this GDScript version](https://github.com/highlightjs/highlightjs-gdscript).
 
 ### Documentation
 
  - https://highlightjs.org/
- - https://docs.godotengine.org/en/latest/getting_started/scripting/gdscript/gdscript_basics.html
+ - https://miniscript.org/ 
+ - [MiniScript Quick Reference](https://miniscript.org/files/MiniScript-QuickRef.pdf)
+ - [MiniScript User's Manual](https://miniscript.org/files/MiniScript-Manual.pdf)
