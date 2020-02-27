@@ -1,4 +1,4 @@
-# GDScript syntax for highlight.js
+# MiniScript syntax for highlight.js
 
 Syntax implementation of the [MiniScript](https://miniscript.org/) language for [Highlight.js](https://github.com/highlightjs/highlight.js).
 
